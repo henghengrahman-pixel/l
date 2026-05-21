@@ -21,7 +21,7 @@ const SESSION_SECRET = process.env.SESSION_SECRET || 'change-this-secret-now';
 const DEFAULT_CONFIG = {
   siteTitle: 'CUSTOMER SERVICE RUPIAHTOTO',
   profileAlt: 'CS RUPIAHTOTO',
-  profilePhoto: 'https://i.postimg.cc/DZM5NWbq/omcs.png',
+  profilePhoto: 'https://blogger.googleusercontent.com/img/a/AVvXsEiw0eqt6QwsVy41Vaocch5Amx4jLYAOulJbh6eTmOHQiniWsvf1RZBWMCVAS5IP7vbmOs_MKOlBoeGlXB6KP7JyzT_geC7pE84KV9hc5gQb-gD8Bh6F3Ql_DPW0t8WqgRBQeFTZHguoC4FbGxwJcLuStphNwnhXlc0dXbvoWvWa5Fi6IP7KihwtzctV0-8c=s16000',
 
   background: '',
   background_mobile: '',
