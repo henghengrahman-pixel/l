@@ -19,8 +19,8 @@ const SESSION_SECRET = process.env.SESSION_SECRET || 'change-this-secret-now';
 
 // ✅ CONFIG FINAL + CHANNEL
 const DEFAULT_CONFIG = {
-  siteTitle: 'CUSTOMER SERVICE OMTOGEL',
-  profileAlt: 'CS OMTOGEL',
+  siteTitle: 'CUSTOMER SERVICE RUPIAHTOTO',
+  profileAlt: 'CS RUPIAHTOTO',
   profilePhoto: 'https://i.postimg.cc/DZM5NWbq/omcs.png',
 
   background: '',
